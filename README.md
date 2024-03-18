@@ -1,2 +1,1 @@
-# ToDoApp
-This is To do Application 
+This is To do Application.
